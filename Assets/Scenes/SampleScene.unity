@@ -460,8 +460,6 @@ MonoBehaviour:
   homeScreen: {fileID: 21300000, guid: cee61fe76100d45c4a7a936b47514a45, type: 3}
   screenOne: {fileID: 21300000, guid: 67bfe514640da444d96e061d13b8daf7, type: 3}
   screenTwo: {fileID: 21300000, guid: f88ea943b61224fce8eafd8dbe1f3560, type: 3}
-  speed: 200
-  screenCount: 0
   countRight: 1
   countDown: 1
 --- !u!114 &984556287
